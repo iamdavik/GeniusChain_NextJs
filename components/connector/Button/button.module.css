@@ -1,0 +1,28 @@
+.container {
+    border-radius: 4rem;
+    width: 100%;
+    max-width: 40rem;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid hsla(240,1%,39%,1);
+    font-size: 1rem;
+    cursor: pointer;
+    background: rgb(15 23 42 / var(--tw-bg-opacity));
+    color: white;
+    box-shadow: 0 0px 2px 1px rgba(255, 255, 255, .1);
+}
+
+.container:active {
+    box-shadow: 0 0 0px 0 rgba(255, 255, 255, .1);
+}
+
+.container:hover {
+    /* background-color: color-primary; */
+}
+
+.img {
+    margin-right: 1rem;
+    max-width: 2rem;
+}
