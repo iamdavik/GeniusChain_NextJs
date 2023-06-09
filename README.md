@@ -38,3 +38,24 @@ This is an example of how to list things you need to use the software and how to
 1. Clone the repo
 ```sh
 git clone https://github.com/iamdavik/GeniusChain.git
+```
+```sh
+npm install
+```
+
+```sh
+npm run dev
+```
+
+
+## Price Update 💰
+
+Genius Chain uses a dedicated repository https://github.com/iamdavik/GeniusChain_contracts that leverages [Chainlink](https://chain.link/) for automatic and regular updates of token prices. This ensures our token swap feature is always in sync with the latest market trends.
+
+
+## Contact 📬
+
+Your Name - onyejivic@gmail.com
+
+Project Link: https://github.com/iamdavik/GeniusChain_NextJs/
+
