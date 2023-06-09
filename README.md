@@ -2,7 +2,7 @@
 
 Genius Chain is a next-generation smart contract creation, auditing, and management platform. Built on Next.js and leveraging the power of AI, it simplifies smart contract development like never before.
 
-![App Screenshot](app-screenshot.jpg) 
+
 
 ## Inspiration
 
