@@ -2,7 +2,7 @@
 import axios from "axios";
 
 const axiosInstance = axios.create({
-  baseURL: "http://localhost:3000", // Replace with your API base URL
+  baseURL: "https://genius-chain.netlify.app", // Replace with your API base URL
   // timeout: 120000, // Set a timeout for requests (in milliseconds)
   headers: {
     "Content-Type": "application/json",
